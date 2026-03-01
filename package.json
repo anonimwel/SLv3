@@ -1,0 +1,21 @@
+{
+  "name": "slv3",
+  "displayName": "Space Launcher",
+  "version": "8.8",
+  "description": "Built with APK Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "keywords": [
+    "cordova",
+    "android"
+  ],
+  "author": "APK Builder",
+  "license": "MIT",
+  "devDependencies": {},
+  "cordova": {
+    "platforms": [],
+    "plugins": {}
+  }
+}
